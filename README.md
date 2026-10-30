@@ -19,41 +19,41 @@ kết nối ConnectionString cho phù hợp với máy cá nhân.
 
 MỤC 3: HÌNH ẢNH KẾT QUẢ CÁC MÀN HÌNH CHỨC NĂNG
 
-1. Màn hình Chính / Tổng quan:![Màn hình
-chính](images/01_main_screen.png)
+1. Màn hình Chính / Tổng quan:![Màn hình chính 5.3](anh/5.3_main.jpg)
+
 2. Màn hình Quản lý Danh mục / Thêm Sửa Xóa (CRUD):![Màn hình
-CRUD](images/02_crud_screen.png)
+CRUD 5.3](anh/5.3_crud.jpg)
 
 3. Màn hình Thực thi Nghiệp vụ chính (Lập phiếu / Gọi món / Check-
-in):![Màn hình Nghiệp vụ](images/03_transaction_screen.png)
+in ):![Màn hình Nghiệp vụ 5.3](anh/5.3_transaction.jpg)
+
+4. Màn hình Báo cáo - Thống kê:![Màn hình Thống kê 5.3](anh/5.3_report.jpg)[](anh/5.3_report1.jpg)
+
+5. Minh họa chống SQL Injection hoặc Báo lỗi Giao dịch
+(Rollback):![Minh họa Xử lý lỗi 5.3](anh/5.3_error.jpg)
+
+1. Màn hình Chính / Tổng quan:![Màn hình
+chính 5.4](anh/5.4_main.jpg)
+2. Màn hình Quản lý Danh mục / Thêm Sửa Xóa (CRUD):![Màn hình
+CRUD 5.4](anh/5.4_crud.jpg)
+
+3. Màn hình Thực thi Nghiệp vụ chính (Lập phiếu / Gọi món / Check-
+in ):![Màn hình Nghiệp vụ 5.4](anh/5.4_transaction.jpg)
 
 4. Màn hình Báo cáo - Thống kê:![Màn hình Thống
-kê](images/04_report_screen.png)
+kê 5.4](anh/5.4_report.jpg)
 5. Minh họa chống SQL Injection hoặc Báo lỗi Giao dịch
-(Rollback):![Minh họa Xử lý lỗi](images/05_error_handling.png)
+(Rollback):![Minh họa Xử lý lỗi 5.4](anh/5.4_error.jpg)[](anh/5.4_error1.jpg)
 
 1. Màn hình Chính / Tổng quan:![Màn hình
-chính](images/01_main_screen.png)
+chính 5.5](anh/5.5_main.jpg)
 2. Màn hình Quản lý Danh mục / Thêm Sửa Xóa (CRUD):![Màn hình
-CRUD](images/02_crud_screen.png)
+CRUD 5.5](anh/5.5_crud.jpg)
 
 3. Màn hình Thực thi Nghiệp vụ chính (Lập phiếu / Gọi món / Check-
-in):![Màn hình Nghiệp vụ](images/03_transaction_screen.png)
-
-4. Màn hình Báo cáo - Thống kê:![Màn hình Thống
-kê](images/04_report_screen.png)
-5. Minh họa chống SQL Injection hoặc Báo lỗi Giao dịch
-(Rollback):![Minh họa Xử lý lỗi](images/05_error_handling.png)
-
-1. Màn hình Chính / Tổng quan:![Màn hình
-chính](images/01_main_screen.png)
-2. Màn hình Quản lý Danh mục / Thêm Sửa Xóa (CRUD):![Màn hình
-CRUD](images/02_crud_screen.png)
-
-3. Màn hình Thực thi Nghiệp vụ chính (Lập phiếu / Gọi món / Check-
-in):![Màn hình Nghiệp vụ](images/03_transaction_screen.png)
+in):![Màn hình Nghiệp vụ 5.5](anh/5.5_transaction.jpg)
 
 5. Màn hình Báo cáo - Thống kê:![Màn hình Thống
-kê](images/04_report_screen.png)
+kê 5.5](anh/5.5_report.jpg)
 6. Minh họa chống SQL Injection hoặc Báo lỗi Giao dịch
-(Rollback):![Minh họa Xử lý lỗi](images/05_error_handling.png)
+(Rollback):![Minh họa Xử lý lỗi 5.5](anh/5.5_error.jpg)
